@@ -1,4 +1,4 @@
-# ⚽ Community Data Packs - Fútbol Argentino
+# ⚽ Community Data Packs
 
 Colección de escudos y logos vectoriales (SVG) de los clubes del fútbol argentino, organizados por categoría para desarrollo de aplicaciones y sitios web.
 
